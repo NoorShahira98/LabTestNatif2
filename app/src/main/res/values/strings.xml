@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabTest2</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="btnLogout">LOGOUT</string>
+</resources>
